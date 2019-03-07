@@ -1,0 +1,91 @@
+
+
+
+
+body
+{
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+
+header
+{
+	background: #008080;
+	padding: 0 15px;
+	border: 2px solid black;
+	color: white;
+
+}
+
+article
+{
+	margin: 0 1.5em 0 12em;
+	padding: 20px;
+}
+
+footer
+{
+	background: #008080;
+	padding: 0 15px;
+	border: 2px solid black;
+	color: white;
+}
+
+#melding
+{
+padding-top: 10px;
+}
+
+#klassemelding
+{
+padding-top: 10px;
+color: red;
+}
+
+.gbStil #boks
+{
+	background: #FFFFFF;
+	margin: 0 auto;
+	border: 0px #000000;
+	text-align: left;
+}
+
+.gbStil header h1
+{
+	margin: 0;
+	padding: 10px 0;
+}
+
+.gbStil nav
+{
+	float: left;
+	width: 12em;
+	background: #a0a0a0;
+	border-right: 2px solid black;
+}
+
+.gbStil nav h3, .gbStil nav p
+{
+	margin-left: 18px;
+	margin-right: 18px;
+	color: black;
+}
+
+
+.gbStil footer h5
+{
+	margin: 0;
+	padding: 10px 0;
+}
+
+.clearfloat
+{
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
